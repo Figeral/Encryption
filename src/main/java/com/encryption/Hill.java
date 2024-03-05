@@ -20,6 +20,7 @@ public class Hill {
         key[1][0] = Integer.parseInt(b.getText());
         key[0][1] = Integer.parseInt(c.getText());
         key[1][1] = Integer.parseInt(d.getText());
+
         String eText = "";
         for (int i = 0; i < msg.length(); i += 2) {
 
